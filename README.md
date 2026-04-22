@@ -1,6 +1,8 @@
-Prompt -
+Prompt :
+Create a modern, clean, and visually attractive personal portfolio website using HTML, CSS, and JavaScript — ALL IN A SINGLE FILE (index.html). 
+Do NOT create separate CSS or JS files. 
+Embed CSS inside <style> and JavaScript inside <script>.
 
-Create a modern, clean, and visually attractive personal portfolio website using HTML, CSS, and JavaScript — ALL IN A SINGLE FILE (index.html). Do NOT create separate CSS or JS files. Embed CSS inside <style> and JavaScript inside <script>.
 Requirements:
 
 1. General Design:
